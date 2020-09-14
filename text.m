@@ -1,0 +1,2 @@
+seq="Abcdefg"
+whos seq
